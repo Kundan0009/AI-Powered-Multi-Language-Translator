@@ -62,8 +62,9 @@ The app will open in your browser at `http://localhost:8501`
 
 ```
 Project/
-├── translang.py       # Main application
-├── requirements.txt   # Dependencies
-├── .env              # API key (create this)
-└── README.md         # Documentation
+├── translang.py          # Main application
+├── requirements.txt      # Dependencies
+├── .env                  # API key (create this)
+├── README.md            # Documentation
+└── Translingua Document/ # Project phase documents
 ```
